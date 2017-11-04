@@ -25,7 +25,7 @@ public class WSDemo {
         GeoIP ferguson = rooney.getGeoIP("123.30.215.62");
         System.out.println(ferguson.getCountryName());
         System.out.println(ferguson.getReturnCodeDetails());
-		System.out.println("Edited: Manchester United UEFA Champions League");
+	System.out.println("Nguyen Thuy Ngoc: Edit v3.0");
     }
     
 }
