@@ -26,7 +26,7 @@ public class WSDemo {
         System.out.println(ferguson.getCountryName());
         System.out.println(ferguson.getReturnCodeDetails());
 	System.out.println("Nguyen Thuy Ngoc: Edit v3.0");
-        System.out.println("Add line");
+        System.out.println("Test netbeans");
     }
     
 }
