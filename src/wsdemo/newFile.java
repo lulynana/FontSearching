@@ -25,7 +25,7 @@ public class newFile {
         GeoIP ferguson = rooney.getGeoIP("123.30.215.62");
         System.out.println(ferguson.getCountryName());
         System.out.println(ferguson.getReturnCodeDetails());
-	System.out.println("Nguyen Thuy Ngoc: Edit v4.0");
+	System.out.println("Nguyen Thuy Ngoc: Edit v3.0");
+        System.out.println("Test netbeans");
     }
     
-}
